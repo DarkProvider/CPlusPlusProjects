@@ -1,0 +1,3 @@
+C:/Users/alakk/Desktop/C++ Opdrachten/CPlusPlusProjects/Opdracht #6 - Opgave week 2/cmake-build-debug/CMakeFiles/Opdracht__6___Opgave_week_2.dir
+C:/Users/alakk/Desktop/C++ Opdrachten/CPlusPlusProjects/Opdracht #6 - Opgave week 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/alakk/Desktop/C++ Opdrachten/CPlusPlusProjects/Opdracht #6 - Opgave week 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
